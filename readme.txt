@@ -12,9 +12,9 @@
 ─██████████████─██████████████─██████████─██████████████─██████████████─██████████████─██████████████─
 ──────────────────────────────────────────────────────────────────────────────────────────────────────
 
-Hello i make exclusive edit for 351ELEC. All images was optimized for screeen with many upgrades of quality.
-Logos get it own treatment too, to be more readable and better aesthetic.
-The console and controller view was removed as it look like a**.
+Hello, I’ve made exclusive edit for 351ELEC. All images were optimized for the RG351 screen which improve their quality.
+Logos received the same improvements too, to improve readability and consistent aesthetic.
+The console and controller views were also removed.
 
 Thanks for Jetup13 for some of his changes for ArkOs :)
 
