@@ -16,6 +16,7 @@ Hello i make exclusive edit for 351ELEC. All images was optimized for screeen wi
 Logos get it own treatment too, to be more readable and better aesthetic.
 The console and controller view was removed as it look like a**.
 
+Thanks for Jetup13 for some of his changes for ArkOs :)
 
 ▀▀█▀▀ █──█ █▀▀ █▀▄▀█ █▀▀ 　 █▀▀▄ █▀▀ █▀▀ █▀▀ █▀▀█ ─▀─ █▀▀█ ▀▀█▀▀ ─▀─ █▀▀█ █▀▀▄ ▄ 
 ──█── █▀▀█ █▀▀ █─▀─█ █▀▀ 　 █──█ █▀▀ ▀▀█ █── █▄▄▀ ▀█▀ █──█ ──█── ▀█▀ █──█ █──█ ─ 
