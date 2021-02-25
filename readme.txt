@@ -14,7 +14,7 @@
 
 Hello i make exclusive edit for 351ELEC. All images was optimized for screeen with many upgrades of quality.
 Logos get it own treatment too, to be more readable and better aesthetic.
-The console and controller view was removed as it look like ass.
+The console and controller view was removed as it look like a**.
 
 
 ▀▀█▀▀ █──█ █▀▀ █▀▄▀█ █▀▀ 　 █▀▀▄ █▀▀ █▀▀ █▀▀ █▀▀█ ─▀─ █▀▀█ ▀▀█▀▀ ─▀─ █▀▀█ █▀▀▄ ▄ 
@@ -35,36 +35,6 @@ To change the colors open carbon.xml with a text editor. Choose a color and find
 
 Sounds:
 To change the sound effect, replace /art/scroll.wav with what ever WAV file you would like. Carbon theme will play what ever is called "scroll.wav" in the /art folder.
-
-Changelog
-=========
-
-===08/16/2016===
-Added Super Grafx
-Added PC Engine CD-Rom²
-Added Turbo Grafx CD
-Removed metadata labels (only the actual meta data is shown)
-Re-positioned elements slightly
-
-===07/08/2016===
-Complete re-write.
-Simplified all system theme.xml files.
-Theme color can be changed by finding and replacing colors in carbon.xml
-UI flipped for left-to-right reading order
-Meta-data tags reduced to: released, genre, players, and description
-Kid-Friendly icons and code added
-Flipper sound removed
-
-===9/19/2015===
-Missing controllers added:
-Colecovision
-Gamecube
-PS2
-X-11
-Wii
-
-License
-=======
 
 -------------------------------------------------------------------------
 
