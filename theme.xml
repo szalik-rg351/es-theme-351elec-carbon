@@ -248,7 +248,7 @@ Année de sortie : ${system.releaseYear}</text>
     </menuText>
     <menuText name="menufooter">
       <fontPath>./art/Cabin-Regular.ttf</fontPath>
-      <fontSize>0.02</fontSize>
+      <fontSize>0.028</fontSize>
       <color>777777FF</color>
     </menuText>
     <menuText name="menutext">
