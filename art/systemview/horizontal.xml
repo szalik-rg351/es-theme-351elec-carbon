@@ -12,12 +12,12 @@
     </carousel>
 
     <carousel name="systemcarousel" tinyScreen="true">
-      <pos>0 0.35</pos>
-      <size>1 0.60</size>
+      <pos>0 0</pos>
+      <size>1 1</size>
       <maxLogoCount>1</maxLogoCount>
-      <logoSize>0.25 0.15</logoSize>
-      <logoScale>2.6</logoScale>
-      <logoPos>-1 0.1</logoPos>
+      <logoSize>0.6 0.35</logoSize>
+      <logoScale>1.0</logoScale>
+      <logoPos>-1 -1</logoPos>
     </carousel>    
 
     <image name="carousel-inner" extra="true">
@@ -30,7 +30,7 @@
     </image>
     <text name="systemInfo">
       <pos>0 0</pos>
-	  <origin>0.035 0.5</origin>
+	  <origin>0 0.5</origin>
       <backgroundColor>0000FF00</backgroundColor>
       <color>${systemInfoColor}</color>
       <glowColor>${glowColor}</glowColor>
