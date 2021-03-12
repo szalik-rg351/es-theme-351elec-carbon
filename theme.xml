@@ -158,7 +158,7 @@ originally based on: "simple" by nils bonenberger, "Carbon" by Eric Hettervik (R
   <feature supported="manufacturer">
     <view name="system">
       <text name="manufacturerName" extra="static">
-        <pos>0.025 0.8</pos>
+        <pos>0.020 0.8</pos>
         <size>0.98 0.15</size>
         <text>Manufacturer : ${system.manufacturer}
 Release Year : ${system.releaseYear}</text>
@@ -166,7 +166,7 @@ Release Year : ${system.releaseYear}</text>
 Année de sortie : ${system.releaseYear}</text>
         <alignment>left</alignment>
         <fontPath>./art/Cabin-Regular.ttf</fontPath>
-        <fontSize>0.024</fontSize>
+        <fontSize>0.028</fontSize>
         <glowSize>1</glowSize>
         <glowColor>${glowColor}</glowColor>
         <color>C0C0C0</color>      
