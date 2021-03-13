@@ -393,13 +393,13 @@ Année de sortie : ${system.releaseYear}</text>
 	  <visible>false</visible>
     </rating>
     <text name="md_lbl_players">
-      <pos>0.9 0.645</pos>
+      <pos>0.83 0.645</pos>
       <size>0.09 0</size>
     </text>
     <text name="md_players">
       <color>EFEFFF</color>
-      <pos>0.965 0.645</pos>
-      <size>0.02 0</size>
+      <pos>0.91 0.645</pos>
+      <size>0.1 0</size>
     </text>
     <text name="md_lbl_releasedate">
       <color>969696</color>
@@ -412,8 +412,8 @@ Année de sortie : ${system.releaseYear}</text>
       <size>0 0.033</size>
     </datetime>
     <text name="md_description">
-      <pos>0.530 0.7</pos>
-      <size>0.46 0.16</size>
+      <pos>0.530 0.695</pos>
+      <size>0.46 0.19</size>
       <color>969696</color>
       <forceUppercase>0</forceUppercase>
       <fontPath>./art/Cabin-Bold.ttf</fontPath>
