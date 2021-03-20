@@ -394,7 +394,7 @@ Année de sortie : ${system.releaseYear}</text>
     </rating>
     <text name="md_lbl_players">
       <pos>0.83 0.645</pos>
-      <size>0.09 0</size>
+      <size>0.1 0</size>
     </text>
     <text name="md_players">
       <color>EFEFFF</color>
