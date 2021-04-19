@@ -33,36 +33,11 @@ originally based on: "simple" by nils bonenberger, "Carbon" by Eric Hettervik (R
     <subset.colorset>Colorset</subset.colorset>
     <subset.shader>Shader</subset.shader>
   </variables>
-  <!-- French -->
-  <variables lang="fr">
-    <tilesViewName>Vignettes</tilesViewName>
-    <basicGridName>Boites</basicGridName>
-    <carouselViewName>Carrousel</carouselViewName>
-    <blue>Bleu</blue>
-    <red>Rouge</red>
-    <green>Vert</green>
-    <yellow>Jaune</yellow>
-    <none>Aucun</none>
-    <roundBorderSubsetName>Bords arrondis</roundBorderSubsetName>
-    <blinkBorderSubsetName>Bords clignotants</blinkBorderSubsetName>
-    <yes>Oui</yes>
-    <no>Non</no>
-    <systemBackgroundName>Arrière-plan</systemBackgroundName>
-    <systemViewName>Vue Système</systemViewName>
-    <previewBarSubsetName>Volet aperçu</previewBarSubsetName>
-    <videoboxesSubsetName>Afficher la video en mode boite</videoboxesSubsetName>
-    <zoomboxesSubsetName>Zoomer les boites</zoomboxesSubsetName>
-    <hideselectionSubsetName>Masquer la sélection</hideselectionSubsetName>
-    <optimizesmallscreensSubsetName>Optimiser pour les petits écrans</optimizesmallscreensSubsetName>
-    <helpSubsetName>Icônes d'aide</helpSubsetName>
-    <colored>Colorés</colored>
-    <subset.colorset>Jeux de couleurs</subset.colorset>
-    <subset.shader>Effets TV</subset.shader>
-  </variables>
+
   <!-- Subset options for color  -->
   <subset name="colorset" displayName="${subset.colorset}">
-    <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
     <include name="red" displayName="${red}"/>
+    <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
     <include name="green" displayName="${green}">./art/colors/green.xml</include>
     <include name="yellow" displayName="${yellow}">./art/colors/yellow.xml</include>
     <include name="violet">./art/colors/violet.xml</include>
